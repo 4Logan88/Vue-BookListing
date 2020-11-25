@@ -6,7 +6,6 @@
     </ul>
     <hr>
       <book-form @addBook="appendBook"></book-form>
-    </hr>
   </div>
 </template>
 
