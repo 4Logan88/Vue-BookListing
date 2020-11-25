@@ -26,8 +26,7 @@ export default {
     BookItem,
   },
 };
-</scr
-    BookItemipt>
+</script>
 
 <style>
 h1, h2 {
